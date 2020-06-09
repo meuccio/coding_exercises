@@ -1,0 +1,11 @@
+{
+  "name": "coding_exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:meuccio/coding_exercises.git",
+  "author": "meuccio <ciesielczyk.bartosz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
